@@ -1,0 +1,9 @@
+This application is of daily news.
+
+it is using animation of flutter libraries, widgets and icons 
+
+it is build on dart 2.9 version
+
+if you want to use just application install it in your smart phone and open it.
+
+ 
